@@ -19,7 +19,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".SetStopsActivity" />
-        <activity android:name=".SetTimeActivity"></activity>
+        <activity android:name=".SetTimeActivity" />
+        <activity android:name=".SetStopActivity" />
+        <activity android:name=".ConfirmActivity"></activity>
     </application>
 
 </manifest>
