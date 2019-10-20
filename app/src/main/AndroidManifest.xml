@@ -9,19 +9,32 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
         <activity android:name=".SearchActivity"></activity>
         <activity
             android:name=".SplashScreen"
             android:theme="@style/SplashScreen">
+=======
+        <activity
+            android:name=".MainActivity"
+            android:label="@strin/main_activity_title">
+>>>>>>> cada89c45bc825b1a736bd6408b4b6c8bb8ac616
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity
             android:name=".MainActivity"
             android:theme="@style/AppTheme" />
+=======
+        <activity android:name=".SetStopsActivity" />
+        <activity android:name=".SetTimeActivity" />
+        <activity android:name=".SetStopActivity" />
+        <activity android:name=".ConfirmActivity"></activity>
+>>>>>>> cada89c45bc825b1a736bd6408b4b6c8bb8ac616
     </application>
 
 </manifest>

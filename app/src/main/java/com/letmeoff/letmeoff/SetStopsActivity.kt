@@ -6,6 +6,8 @@ import com.letmeoff.letmeoff.ui.setstops.SetStopsFragment
 
 class SetStopsActivity : AppCompatActivity() {
 
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.set_stops_activity)
