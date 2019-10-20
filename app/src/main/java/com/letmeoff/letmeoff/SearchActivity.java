@@ -4,9 +4,12 @@ package com.letmeoff.letmeoff;
 import android.support.v7.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.SearchView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 
@@ -45,6 +48,15 @@ public class SearchActivity extends AppCompatActivity {
             public boolean onQueryTextChange(String s) {
                 adapter.getFilter().filter(s);
                 return false;
+            }
+        });
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+
+            @Override
+            public void onItemClick(AdapterView<?> arg0, View arg1, int position, long arg3) {
+
+            Object o = listView.getItemAtPosition(position);
+            //Toast.makeText(getApplicationContext(), o.toString(), Toast.LENGTH_SHORT).show();
             }
         });
 
