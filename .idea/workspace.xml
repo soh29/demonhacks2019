@@ -5,6 +5,8 @@
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+<<<<<<< HEAD
+=======
   <component name="ChangeListManager">
     <list default="true" id="853fc653-9f20-4744-9257-832bd5a4e89d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -64,22 +66,10 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+>>>>>>> e31c4f937d662b65871f47a52eccec451febdc67
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -102,6 +92,8 @@
       </method>
     </configuration>
   </component>
+<<<<<<< HEAD
+=======
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -155,6 +147,7 @@
       </provider>
     </entry>
   </component>
+>>>>>>> e31c4f937d662b65871f47a52eccec451febdc67
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
