@@ -58,25 +58,11 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.151" />
 
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="409dp"
+        android:layout_height="480dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="143dp" />
 
-
-    <Switch
-        android:id="@+id/simpleSwitch"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Type"
-        android:textOff="Bus Stop"
-        android:textOn="Time"
-        android:gravity="center"
-        tools:layout_editor_absoluteX="137dp"
-        tools:layout_editor_absoluteY="160dp" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Select Date"
-        tools:layout_editor_absoluteX="151dp"
-        tools:layout_editor_absoluteY="273dp" />
 
 </android.support.constraint.ConstraintLayout>

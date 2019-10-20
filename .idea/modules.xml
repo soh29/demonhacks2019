@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StudioProjects-demonhacks2019.iml" filepath="$PROJECT_DIR$/StudioProjects-demonhacks2019.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demonhacks2019.iml" filepath="$PROJECT_DIR$/demonhacks2019.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demonhacks2019_2.iml" filepath="$PROJECT_DIR$/demonhacks2019_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/demonhacks2019_2-app.iml" filepath="$PROJECT_DIR$/app/demonhacks2019_2-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/demonhacks2019.iml" filepath="$PROJECT_DIR$/.idea/demonhacks2019.iml" />
     </modules>
   </component>
 </project>
