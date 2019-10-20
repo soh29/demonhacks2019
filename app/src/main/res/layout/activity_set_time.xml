@@ -36,7 +36,7 @@
         tools:ignore="MissingConstraints" />
 
     <Button
-        android:id="@+id/alarmbutton"
+        android:id="@+id/button"
         android:layout_width="250dp"
         android:layout_height="55dp"
         android:layout_marginStart="8dp"
@@ -101,14 +101,15 @@
 
     <Button
         android:id="@+id/letmeoff"
-        android:layout_width="150dp"
-        android:layout_height="55dp"
+        android:layout_width="350dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="45dp"
         android:background="@drawable/custom_button2"
         android:gravity="center"
-        android:text="LetMeOff"
+        android:text="Let Me Know"
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
-        android:textSize="20sp"
+        android:textSize="40sp"
         app:layout_constraintBottom_toTopOf="@+id/StopNumbers"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
