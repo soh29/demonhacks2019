@@ -1,6 +1,7 @@
 package com.letmeoff.letmeoff;
 
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -57,6 +58,9 @@ public class SearchActivity extends AppCompatActivity {
 
             Object o = listView.getItemAtPosition(position);
             //Toast.makeText(getApplicationContext(), o.toString(), Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(getBaseContext(), SetStopActivity.class);
+                intent.putExtra("bus_number", o.toString());
+                startActivity(intent);
             }
         });
 
