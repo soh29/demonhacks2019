@@ -13,9 +13,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c472efff-6134-4028-a95d-3cca051250e7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c472efff-6134-4028-a95d-3cca051250e7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -2742,12 +2740,12 @@
       <window_info anchor="right" id="Preview" order="1" weight="0.30517504" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.23124042" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.44563553" />
       <window_info anchor="bottom" id="Logcat" order="4" />
       <window_info id="Captures" order="7" weight="0.25" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.23135464" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.23135464" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.3091716" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32861635" />
       <window_info anchor="right" id="Gradle" order="3" />
