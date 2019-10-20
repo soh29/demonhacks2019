@@ -16,9 +16,6 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    val simpleSwitch = findViewById<View>(R.id.simpleSwitch) as Switch // initiate Switch
 
-    simpleSwitch.textOn = "Time" // displayed text of the Switch whenever it is in checked or on state
-    simpleSwitch.textOff = "Bus Stop"
 
 }
