@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="853fc653-9f20-4744-9257-832bd5a4e89d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="7" />
     <option name="y" value="23" />
     <option name="width" value="1260" />
@@ -116,7 +116,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="23" width="1260" height="723" extended-state="0" />
+    <frame x="7" y="23" width="1260" height="723" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Resources Explorer" />
