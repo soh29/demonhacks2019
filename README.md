@@ -1,6 +1,7 @@
 # demonhacks2019
-Title: Let me off
-Description: This mobile app is for the people(Sleepyheads, forgetful heads, travelers) who miss getting off the bus when they arrive at the right bus stop.
+- Title: Let me off
+
+- Description: This mobile app is for the people(Sleepyheads, forgetful heads, travelers) who miss getting off the bus when they arrive at the right bus stop.
 
 
 Team Heroes, The First DemonHacks for us!
